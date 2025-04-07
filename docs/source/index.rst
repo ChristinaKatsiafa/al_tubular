@@ -17,3 +17,10 @@ documentation for details.
    modules
    tubular
 
+.. toctree::
+   :hidden:
+
+   Home page <self>
+   Jupyter tutorials <tutorials>
+   API reference <_autosummary/mytoolbox>
+
