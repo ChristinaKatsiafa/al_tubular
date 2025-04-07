@@ -32,7 +32,7 @@ extensions = [
     "sphinx_rtd_theme",
 ]
 
-
+autosummary_generate = True  # Turn on sphinx.ext.autosummary
 templates_path = ["_templates"]
 exclude_patterns = []
 
