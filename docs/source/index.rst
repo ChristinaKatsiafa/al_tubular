@@ -21,3 +21,9 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+.. toctree::
+   :hidden:
+
+   Home page <self>
+   API reference <_autosummary/mytoolbox>
+
