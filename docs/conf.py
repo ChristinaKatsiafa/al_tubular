@@ -27,6 +27,7 @@ extensions = [
     "sphinx_rtd_theme",
 ]
 
+autosummary_generate = True
 
 templates_path = ["_templates"]
 exclude_patterns = []
