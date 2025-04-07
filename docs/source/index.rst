@@ -7,7 +7,8 @@ Welcome to tubular's documentation!
 ===================================
 
 .. toctree::
-   :glob:
+   :maxdepth: 2
+   :caption: Contents:
 
    API Documentation <tubular>
 
