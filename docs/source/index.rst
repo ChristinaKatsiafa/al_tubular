@@ -1,17 +1,29 @@
-.. test documentation master file, created by
-   sphinx-quickstart on Mon Apr  7 09:57:38 2025.
+.. model_interpreter documentation master file, created by
+   sphinx-quickstart on Tue Aug  6 10:47:38 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-test documentation
-==================
-
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+Welcome to tubular's documentation!
+===================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   API Documentation <tubular>
+
+.. toctree::
+   :maxdepth: 1
+
+   Changelog <changelog>
+   Contributing <contributing>
+   Code of Conduct <code-of-conduct>
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
